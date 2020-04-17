@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&display=swap');
+
+body {
+  background-color:#e0dada;
+  font-family: 'Baloo Bhaina 2';
+}
+
+.img-fluid {
+  max-width: 100px;
+  height: auto;
+}
+
+#secfoot {
+  background-color: black;
+  align-content: center;
+}
+
+#main-foot {
+  background-color: rgb(99, 99, 99);
+  padding-bottom: 1em;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+#copy {
+  font-size: 13pixel;
+  color: #636363;
+  padding-left: 10px;
+}
+
+hr {
+  background-color: black;
+  height: 2px;
+}
+html {
+  background-color: black;
+}
+
+#subform {
+  width: max-content;
+}
+
+.form-control {
+  margin-bottom: 1em;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin-top: 10px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 90%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+.card img {
+  width: 300px;
+  height: 300px;
+  align-self: center;
+  padding: 10px;
+}
+
+.card p {
+  padding: 10px;
+}
+
+.container {
+  margin-bottom: 10px;
+}
